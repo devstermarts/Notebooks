@@ -8,8 +8,9 @@ This repo contains Jupyter notebooks for training the following neural audio mod
 - [AFTER](https://github.com/acids-ircam/AFTER)
 - [RAVE-Latent Diffusion](https://github.com/moiseshorta/RAVE-Latent-Diffusion)
 - [RAVE-Latent Diffusion (Flex'ed)](https://github.com/devstermarts/RAVE-Latent-Diffusion-Flex-ed)
+- [Stable Audio Tools, Autoencoder](https://github.com/Stability-AI/stable-audio-tools)
 
-## How to use on Kaggle
+## How to use on Kaggle (exemplary)
 
 ### Setup training
 1. Add new notebook (via "+" button)
