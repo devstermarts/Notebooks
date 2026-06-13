@@ -1,14 +1,16 @@
 # Notebooks
 
-This repo contains Jupyter notebooks for training the following neural audio models on Kaggle (some also on Google Colab):
+This repo contains Jupyter notebooks for training the following neural audio and latent diffusion models on Kaggle (some also on Google Colab):
 
 - [RAVE](https://github.com/acids-ircam/RAVE)
 - [VSCHAOS2](https://github.com/acids-ircam/vschaos2)
 - [MSPrior](https://github.com/caillonantoine/msprior)
 - [AFTER](https://github.com/acids-ircam/AFTER)
-- [RAVE-Latent Diffusion](https://github.com/moiseshorta/RAVE-Latent-Diffusion)
-- [RAVE-Latent Diffusion (Flex'ed)](https://github.com/devstermarts/RAVE-Latent-Diffusion-Flex-ed)
+- [RAVE-Latent Diffusion](https://github.com/moiseshorta/RAVE-Latent-Diffusion) / [RAVE-Latent Diffusion (Flex'ed)](https://github.com/devstermarts/RAVE-Latent-Diffusion-Flex-ed)
 - [Stable Audio Tools, Autoencoder](https://github.com/Stability-AI/stable-audio-tools)
+- [underfit, LoRA finetune for Stable Audio 3](https://github.com/dada-bots/underfit) (Kaggle adaptation of dadabots' Colab notebook) 
+
+---
 
 ## How to use on Kaggle (exemplary)
 
