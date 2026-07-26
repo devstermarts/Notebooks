@@ -1,6 +1,6 @@
 # Notebooks
 
-This repo contains Jupyter notebooks for training the following neural audio and latent diffusion models on Kaggle (some also on Google Colab):
+This repo contains Jupyter notebooks for training the following neural audio and latent diffusion models on Kaggle:
 
 - [RAVE](https://github.com/acids-ircam/RAVE)
 - [VSCHAOS2](https://github.com/acids-ircam/vschaos2)
